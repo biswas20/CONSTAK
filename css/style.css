@@ -168,6 +168,7 @@ width: 160px;
     border-radius: 30px;
     border:2px solid transparent;
     transition: all .3s;
+   
 }
 .contact-btn i{
     padding-left: 10px;
@@ -378,6 +379,64 @@ padding-bottom: 120px;
 .accordion-item:target .accordion-link .fa-minus{
     display: block;
 }
+.consructor-offer{
+    margin-left: 40px;
+   
+}
+.consructor-img{
+    background: url(../images/constructor-offer-img.jpg);
+    background-repeat: no-repeat;
+    min-height: 500px;
+    margin-bottom: 40px;
+}
+.overlay-info{
+    padding: 50px 0px;
+}
+.overlay-img{
+    width: 90px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.overlay-info h3{
+    color:#fff;
+    font-size: 32px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.phn-num{
+    color:#ff6d16!important;
+    font-size: 22px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 500;
+    margin-bottom: 40px;
+    display: block;
+}
+.serv-del-contact-btn{
+    background: #2b438b!important;
+    border:2px solid transparent
+}
+.serv-del-contact-btn:hover{
+    background: transparent!important;
+    border-color:#2b438b!important;
+    color:#fff!important;
+}
+.document-box{
+    padding: 20px 20px;
+    background: #fff6f1;
+    font-family: 'Heebo', sans-serif;
+    margin-bottom: 20px;
+}
+.document-box h4{
+    color:#000f3c;
+    font-size: 18px;
+}
+.document-box h4 a i{
+    padding-left: 40px;
+    color:#ff5916
+    
+}
+
 /* SERVICES DETAILS PART CSS END */
 
 /* ABOUT PART CSS START */
